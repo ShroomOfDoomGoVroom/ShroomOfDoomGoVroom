@@ -11,3 +11,5 @@ You can click the Preview link to take a look at your changes.
 Following the tutorial "Python Online Game Tutorial" by Tech with Tim:
  - client.py
  - network.py
+ - The python files in "RPS edited" branch
+       - I followed the tutorial by Tech with Tim, and added a little bit more features
